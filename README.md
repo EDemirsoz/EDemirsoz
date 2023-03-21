@@ -19,6 +19,3 @@ Hello and welcome to my GitHub profile! My name is **Enes**, and I am a new grad
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=EDemirsoz&theme=dark&hide_border=false)<br/>
