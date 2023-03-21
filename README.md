@@ -10,6 +10,6 @@ Hello and welcome to my GitHub profile! My name is **Enes**, and I am a new grad
 - 📫 How to reach me:
   **[Linkedin](https://www.linkedin.com/in/enesdemirsoz/), [Instagram](https://www.instagram.com/enesdmrsz)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDemirosz&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDemirsoz&layout=compact&theme=dark&hide_border=true)
 
 ![Enes' github stats](https://github-readme-stats.vercel.app/api?username=EDemirsoz&show_icons=true&hide_border=true&theme=dark)
