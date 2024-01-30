@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello and welcome to my GitHub profile! My name is **Enes**, and I am a new grad who completed my Software Engineering Technology program at the end of April 2023. As a software developer with 16 months of co-op experience, I'm eager to make my mark in the tech industry.
+Hello and welcome to my GitHub profile!
 
 ---
 
